@@ -1,0 +1,14 @@
+C:\Users\superhuman\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\superhuman\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\superhuman\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\superhuman\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.AssemblyReference.cache
+C:\Users\superhuman\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.SuggestedBindingRedirects.cache
+C:\Users\superhuman\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.hethong.resources
+C:\Users\superhuman\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\superhuman\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\superhuman\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\superhuman\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\superhuman\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\superhuman\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.dangnhap.resources
+C:\Users\superhuman\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.mathang.resources
+C:\Users\superhuman\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.thongke.resources
